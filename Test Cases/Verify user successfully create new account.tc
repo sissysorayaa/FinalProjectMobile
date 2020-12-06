@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user successfully create new account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a93c98d0-8ae6-4cc3-80b5-ccabbcfc87ce</testCaseGuid>
+</TestCaseEntity>
